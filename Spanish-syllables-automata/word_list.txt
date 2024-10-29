@@ -1,0 +1,28 @@
+Batería de palabras
+
+Diptongos
+cau.to
+bai.le
+e.mo.ción
+viu.da
+lau.ra
+luis
+pri.mi.cia
+vein.te
+boi.na
+lour.des
+
+Triptongos
+guau
+lim.piais
+fiais
+bioin.for.má.ti.ca
+se.miau.to.má.ti.co
+
+sílabas sin ataque ni coda
+a.mor
+e.jem.plo
+
+Sílabas que no debería reconocer
+trans
+cons.tan.cia
